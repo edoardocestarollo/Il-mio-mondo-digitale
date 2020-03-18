@@ -1,0 +1,216 @@
+.Titoli_verde {
+    color: #1ddd0b;                                                                               
+    font-size: 28pt;
+    text-align: center;
+}
+
+.Titoli_blu {
+    color: rgb(4, 20, 255);
+    font-size: 28pt;
+    text-align: center;
+}
+    
+ .Titoli_arancione {
+     color: rgb(255, 154, 2);
+     font-size: 28pt; 
+     text-align: center;
+     font-family: monospace;
+ }
+
+.centrato {
+    display: block;
+    text-align: center;
+}
+
+.margine-XboxOne{
+    margin-right: 30pt;
+    margin-top: 20pt;
+}
+
+.margine-PC{
+    margin-left: 60pt;
+    margin-right: 30pt;
+}
+
+.margine-Airpods {
+    margin-left: 20pt;
+    margin-right: 20pt;
+}
+
+.margine-IpadMini{
+    margin-left: 60pt;
+    margin-right: 60pt;
+}
+
+.margine-AppleWatch{
+    margin-left: 10pt; 
+    margin-right: 20pt;
+    margin-bottom: 20pt;
+    padding-right: 20pt;
+}
+
+.margine-GoogleHome{
+    margin-left: 40pt;
+    margin-right: 90pt;
+    margin-top: 10pt;
+    margin-bottom: 20pt;
+}
+
+.margine-Laptop{
+    margin-left: 20pt;
+    margin-right: 60pt;
+    margin-top: 50pt;
+}
+
+.margine-MagicKeyboard{
+    margin-left: 20pt;
+    margin-right: 20pt;
+    margin-top: 20pt;
+}
+
+.margine-MagicMouse{
+    margin-left: 30pt;
+    margin-right: 30pt;
+}
+
+.margine-RobotAspirapolvere{
+    margin-right: 70pt;
+    margin-top: 10pt;
+}
+
+.margine-AppleTV{
+    margin-right: 30pt;
+    margin-left: 10pt;
+    margin-top: 70pt;
+}
+
+.margine-Iphone{
+    position: relative;
+    bottom: 20pt;
+}
+
+.Titoli_Blu_iRobotRoomba{
+    color: rgb(4, 20, 255);
+    font-size: 24pt;
+    text-align: center;
+}
+
+.Titoli_blu_iMac {
+    color: rgb(4, 20, 255);
+    font-size: 24pt;
+    text-align: center;
+ }
+
+.Titoli_blu_MacBookPro {
+    color: rgb(4, 20, 255);
+    font-size: 24pt;
+    text-align: center;
+}
+
+.Titoli_rosso_SpecificheTecniche{
+    color: rgb(255, 33, 4);
+    font-size: 24pt;
+    text-align: center;
+    font-family: monospace;
+}
+
+header{
+    top: 0px;
+    position: sticky;
+}
+
+.componenti,.sinistra{
+    display: block;
+    float: left;
+    text-align: left;
+    font-size: 16pt;
+    font-family: monospace;
+}
+    
+.menu{
+    font-size: 16pt;
+    font-family: monospace;
+    font-weight: bold;
+    float: left;
+}
+
+a {
+	width: 500px; 
+	height: 400px;
+}
+
+a img {
+  -moz-transition: all 0.5s;
+  -webkit-transition: all 0s;
+  transition: all 0.5s;
+}
+
+a:hover img	{
+ -moz-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.cinturino{
+    margin-left: 250pt;
+    margin-bottom: 40pt;
+}
+
+.dispositivi{
+    text-decoration: none;
+    margin-left: 15pt;
+    color: rgb(255, 255, 255);
+    text-align: center;      
+}
+
+nav{
+    border-left-color: rgb(0, 0, 0);
+    border-left-style: ridge;
+    border-left-width: 4pt;
+    border-right-color: rgb(0, 0, 0);
+    border-right-style: ridge;
+    border-right-width: 4pt;
+    border-top-color: rgb(0, 0, 0);
+    border-top-style: ridge;
+    border-top-width: 4pt;
+    border-bottom-color: rgb(0, 0, 0);
+    border-bottom-style: ridge;
+    border-bottom-width: 4pt;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+    background-color: black;
+}
+
+.apple{
+    margin-left: 20pt;
+    color: cornflowerblue;
+    font-size: 14pt;
+    font-family: monospace;
+}
+
+figcaption{
+    margin-left: 5pt;
+}
+
+aside{
+    padding-left: 90pt;
+    padding-top: 13pt;
+    font-size: 13pt;
+}
+
+figure{
+    float: left;
+}
+
+body{
+    margin-bottom: 30pt;
+    display: grid;
+    margin: 0pt;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
